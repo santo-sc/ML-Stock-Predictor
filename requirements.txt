@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+tensorflow==2.18.0
+scikit-learn
+yfinance
+pandas-datareader
